@@ -52,6 +52,7 @@ extensions = ['sphinx.ext.autodoc',
               'sphinx.ext.ifconfig',
               'sphinx.ext.autosummary',
               'sphinx.ext.mathjax',
+              'sphinxcontrib.napoleon',
               'math_dollar',  # has to go before numpydoc
               'numpydoc',
               'github',
